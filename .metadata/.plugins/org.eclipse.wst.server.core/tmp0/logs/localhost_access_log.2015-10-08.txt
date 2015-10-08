@@ -1,0 +1,6 @@
+127.0.0.1 - - [08/Oct/2015:11:57:34 +1100] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [08/Oct/2015:11:57:35 +1100] "GET /secondHandMarket/index.jsp HTTP/1.1" 200 250
+0:0:0:0:0:0:0:1 - - [08/Oct/2015:12:00:55 +1100] "GET /secondHandMarket/index.jsp HTTP/1.1" 200 250
+0:0:0:0:0:0:0:1 - - [08/Oct/2015:12:00:55 +1100] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [08/Oct/2015:12:00:55 +1100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 1015
+0:0:0:0:0:0:0:1 - - [08/Oct/2015:12:00:55 +1100] "GET /apple-touch-icon.png HTTP/1.1" 404 991
